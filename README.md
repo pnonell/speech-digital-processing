@@ -1,4 +1,4 @@
-# speech-digital-processing
+# Speech digital processing
 
 This project consisted in applying audio processing technics to model and modify speech audio.
 
