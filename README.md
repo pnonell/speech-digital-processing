@@ -1,6 +1,6 @@
 # Speech digital processing
 
-This project consisted in applying audio processing technics to model and modify speech audio.
+This project consisted in applying audio processing techniques to model and modify speech audio.
 
 The project has two parts which both use a pre-recorded speech audio (audio_original.wav):
 
