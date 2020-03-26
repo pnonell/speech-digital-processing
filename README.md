@@ -6,7 +6,7 @@ The project has two parts which both use a pre-recorded speech audio (audio_orig
 
 - 1st Part: modelat_mhe.m 
 
-    Analysis of the pitch marks of the audio, splitting of the harmonic (audio_h.wav) and stochastic (audio_n.wav) parts and reconstructio0n of the audio (audio_hn.wav).
+    Analysis of the pitch marks of the audio, splitting of the harmonic (audio_h.wav) and stochastic (audio_n.wav) parts and reconstruction of the audio (audio_hn.wav).
 
 - 2n Part: modelat_mhet.m
 
